@@ -12,6 +12,7 @@
 		D6A222D82ACAF5D90056FD55 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A222D72ACAF5D90056FD55 /* ContentView.swift */; };
 		D6A222DA2ACAF5DB0056FD55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6A222D92ACAF5DB0056FD55 /* Assets.xcassets */; };
 		D6A222DD2ACAF5DB0056FD55 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6A222DC2ACAF5DB0056FD55 /* Preview Assets.xcassets */; };
+		D6A222E52ACB21880056FD55 /* MultiWindowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A222E42ACB21880056FD55 /* MultiWindowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D6A222D92ACAF5DB0056FD55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6A222DC2ACAF5DB0056FD55 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D6A222DE2ACAF5DB0056FD55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6A222E42ACB21880056FD55 /* MultiWindowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiWindowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D6A222D52ACAF5D90056FD55 /* ebankITVisionOSAppApp.swift */,
 				D6A222D72ACAF5D90056FD55 /* ContentView.swift */,
+				D6A222E42ACB21880056FD55 /* MultiWindowView.swift */,
 				D6A222D92ACAF5DB0056FD55 /* Assets.xcassets */,
 				D6A222DE2ACAF5DB0056FD55 /* Info.plist */,
 				D6A222DB2ACAF5DB0056FD55 /* Preview Content */,
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6A222D82ACAF5D90056FD55 /* ContentView.swift in Sources */,
+				D6A222E52ACB21880056FD55 /* MultiWindowView.swift in Sources */,
 				D6A222D62ACAF5D90056FD55 /* ebankITVisionOSAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
